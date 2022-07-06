@@ -1,0 +1,4 @@
+#ignores api key 
+
+.vscode
+apiKey.js
